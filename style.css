@@ -1,0 +1,83 @@
+header
+{
+	background-color: #3b5998;
+    height: 50px;
+}
+.container
+{
+ width:100%;
+}
+.logo
+{
+ font-size:40px; 
+ color:white;
+ width:50%;
+ float: left; 
+}
+.username
+{
+	font-size:15px;
+	color:white;
+	width:20%;
+	float: left; 
+	margin-top: 8px;
+}
+.password
+{
+	font-size:15px;
+	color:white;
+	width:20%;
+	float: left;
+	margin-top: 8px; 
+}
+.login
+{
+	font-size:15px;
+	color:white;
+	width:10%;
+	float:left; 
+	margin-top: 14px;
+	 
+}
+.btn-login
+{
+	background-color:#3b5998;
+	color:white;
+}
+
+.container1
+{
+    width:50%;
+}
+.images
+{
+	width: 50%;
+	float: left;
+}
+#img
+{
+   width:450px;
+   height:300px;
+
+}
+.f1
+{
+	font-size:20px;
+	color:#8b9dc3;
+	   
+}
+.margin
+{
+	width:28%;
+	margin-top:5px;
+}
+.create
+{
+	background-color:green;
+	color:white;
+}
+.sel
+{
+	background-color:#3b5998;
+	color:white;
+}
